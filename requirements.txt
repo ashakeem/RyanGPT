@@ -1,0 +1,4 @@
+dataclasses==0.8 ; python_version < "3.7"
+streamlit==0.89.0
+langchain==0.1.0
+typing-extensions==3.10.0.2
