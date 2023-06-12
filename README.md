@@ -3,4 +3,6 @@
 
 # Requirement
 run pip install openai lanchain streamlit
-to run use : streamlit run main.py
+
+# Streamlit
+to run use the command : streamlit run main.py
