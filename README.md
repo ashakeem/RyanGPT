@@ -1,5 +1,5 @@
 # Ryan GPT🤖
-![image](https://github.com/ashakeem/RyanGPT/assets/125868067/b7314fbf-ad8d-423e-af85-11687abd4fdd)
+
 
  Unfortunately, I ran out of API usage for the GPT-3 model, so I wasn't able to deploy this app🙁. But don't worry! You can still run this code on your own machine as long as you have the necessary dependencies and access to the GPT-3 API.
 
@@ -34,7 +34,7 @@ To get started, follow these steps:
 
 ## Usage
 Once the app is up and running, you'll be able to chat with, Ryan GPT🤖. Simply type your messages in the chat input box and click the "Submit" button to send them. You'll see our conversation history displayed on the screen.
-
+![image](https://github.com/ashakeem/RyanGPT/assets/125868067/b7314fbf-ad8d-423e-af85-11687abd4fdd)
 ## Acknowledgments
 I would like to acknowledge the incredible GPT-3 model from OpenAI, which made it possible to create this chatbot app. Its advanced capabilities and natural language understanding have been instrumental in providing realistic and engaging conversations.
 
