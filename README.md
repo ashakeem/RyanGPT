@@ -24,7 +24,6 @@ To get started, follow these steps:
    pip install -r requirements.txt
    ```
 
-
 2. Now it's time to set up your OpenAI API key. You'll need to paste in `openai_api_key = " "` with your actual API key in the secrets.toml file.
 
 3. Run the code using the following command in your terminal:
