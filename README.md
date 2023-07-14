@@ -11,7 +11,7 @@ Let me guide you through the steps to get started:
 
 ## Prerequisites
 Before we dive in, make sure you have the following dependencies installed on your machine:
-- Python 3.x
+- Python 3.7 and below(does not work on newer versions of python)
 - Streamlit
 - langchain
 - OpenAI API key
@@ -25,7 +25,7 @@ To get started, follow these steps:
    ```
 
 
-2. Now it's time to set up your OpenAI API key. You'll need to replace `st.secrets["openai_api_key"]` with your actual API key in the code.
+2. Now it's time to set up your OpenAI API key. You'll need to paste in `openai_api_key = " "` with your actual API key in the secrets.toml file.
 
 3. Run the code using the following command in your terminal:
    ```
