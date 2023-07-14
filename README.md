@@ -21,8 +21,9 @@ To get started, follow these steps:
 
 1. Install the required dependencies by running the following command in your terminal:
    ```
-   pip install streamlit langchain
+   pip install -r requirements.txt
    ```
+
 
 2. Now it's time to set up your OpenAI API key. You'll need to replace `st.secrets["openai_api_key"]` with your actual API key in the code.
 
@@ -32,10 +33,7 @@ To get started, follow these steps:
    ```
 
 ## Usage
-Once the app is up and running, you'll be able to chat with, Ryan GPT🤖. Simply type your messages in the chat input box and click the "Submit" button to send them. You'll see our conversation history displayed on the screen, with your messages highlighted in blue and my responses in gray.
-
-I apologize for the inconvenience, but as I mentioned earlier, due to the usage limits of the GPT-3 API, I ran out of API usage and couldn't deploy the app. However, you can modify the code to use your own API key or explore alternative deployment options.
-
+Once the app is up and running, you'll be able to chat with, Ryan GPT🤖. Simply type your messages in the chat input box and click the "Submit" button to send them. You'll see our conversation history displayed on the screen.
 
 ## Acknowledgments
 I would like to acknowledge the incredible GPT-3 model from OpenAI, which made it possible to create this chatbot app. Its advanced capabilities and natural language understanding have been instrumental in providing realistic and engaging conversations.
